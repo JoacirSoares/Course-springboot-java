@@ -1,0 +1,1 @@
+package responsible for setting h2 database properties
