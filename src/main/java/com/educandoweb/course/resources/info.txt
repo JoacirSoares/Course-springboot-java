@@ -1,0 +1,1 @@
+Methods performed automatically when accessing certain http paths
